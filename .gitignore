@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Деректер мен үлкен модельдерді GitHub-қа жүктемеу үшін
+data/
+models/
+*.pt
+*.onnx
+*.mp4
+*.avi
